@@ -12,8 +12,6 @@ nav {
 
 .image {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
   width: 100%;
 }
 
@@ -45,15 +43,10 @@ li {
   gap: 10%;
   grid-auto-flow: column;
   margin: 5%;
+  margin-top: 2px;
+  margin-bottom: 100px;
 }
 
 footer {
-  width: 50%;
-  margin: auto;
   text-align: center;
-}
-
-.contact {
-  width: 50%;
-  margin: auto;
 }
