@@ -41,6 +41,15 @@ li {
   text-align: center;
 }
 
+#wrapper {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  gap: 10%;
+  width: 90%;
+  grid-auto-flow: column;
+}
+
 footer{
   text-align: center;
 }
