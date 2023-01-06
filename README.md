@@ -22,7 +22,7 @@ _A portfolio webpage that displays information about me including an image, my p
 
 ## Known Bugs
 
-* _Web pages linked are WIPs_
+* _Mailto link WIP to form_
 
 ## License
 
