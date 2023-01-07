@@ -72,15 +72,6 @@ footer {
   border-color: white;
 }
 
-#wrapper {
-  display: grid;
-  gap: 10%;
-  grid-auto-flow: column;
-  margin: 5%;
-  margin-top: 2px;
-  margin-bottom: 100px;
-}
-
 @media screen and (max-width: 750px) {
   
   #wrapper {
