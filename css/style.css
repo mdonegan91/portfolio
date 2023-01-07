@@ -54,8 +54,8 @@ li {
 .aboutme {
   margin-bottom: 100px;
   display: block;
-  margin-left: 400px;
-  margin-right: 400px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .aboutme li {
@@ -71,3 +71,18 @@ footer {
   border-style: solid;
   border-color: white;
 }
+
+#wrapper {
+  display: grid;
+  gap: 10%;
+  grid-auto-flow: column;
+  margin: 5%;
+  margin-top: 2px;
+  margin-bottom: 100px;
+}
+
+@media screen and (max-width: 750px) {
+  
+  #wrapper {
+    display: block;
+  }
