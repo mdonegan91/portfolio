@@ -21,8 +21,8 @@ _A portfolio webpage that displays information about me including an image, my p
 
 ## Known Bugs
 
-* _Mailto link WIP to form_
-* _ol needs to be aligned left_
+* _Mailto link WIP_
+* _not adapted for responsive design_
 
 ## License
 

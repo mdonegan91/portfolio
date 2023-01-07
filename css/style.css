@@ -58,6 +58,10 @@ li {
   margin-right: 400px;
 }
 
+.aboutme li {
+  text-align: left;
+}
+
 span:hover {
   background-color: gray;
 }
