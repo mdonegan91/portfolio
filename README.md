@@ -4,6 +4,10 @@
 
 #### _HTML and CSS Independent Project_
 
+### _Link to GitHub Pages_
+
+_https://mdonegan91.github.io/portfolio/
+
 ## Technologies Used
 
 * _HTML_
